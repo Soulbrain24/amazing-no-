@@ -43,7 +43,7 @@ p a{
   color: rgb(213, 132, 245);
   text-transform: none;
 }
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 820px) {
   
   body {
     font-size: 12px;
